@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PokemonBook</string>
+    <string name="SORT">SORT</string>
+    <string name="DEFAULT">DEFAULT</string>
+    <string name="ATK">ATK</string>
+    <string name="DEF">DEF</string>
+    <string name="SPD">SPD</string>
+    <string name="name">name</string>
+    <string name="Grass">Grass</string>
+    <string name="heart">heart</string>
+    <string name="about">ABOUT</string>
+    <string name="type">type</string>
+    <string name="xdes">xdes</string>
+    <string name="HEIGHT">HEIGHT</string>
+    <string name="xdesc">"Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger"</string>
+    <string name="WEIGHT">WEIGHT</string>
+    <string name="TOTAL">TOTAL</string>
+    <string name="arrow">arrow</string>
+    <string name="HP">HP</string>
+    <string name="Pokemon">Pokemon</string>
+    <string name="ID">#001</string>
+    <string name="num">30</string>
+</resources>
